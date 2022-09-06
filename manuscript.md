@@ -8,7 +8,7 @@ lang: en-US
 date-meta: '2022-09-06'
 author-meta:
 - Robert Wiggins
-- Jane Roe
+- YongjianMa
 - Jane Roe
 header-includes: |-
   <!--
@@ -32,10 +32,9 @@ header-includes: |-
   <meta name="citation_author_institution" content="Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@bobbythewiggler" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="YongjianMa" />
+  <meta name="citation_author_institution" content="Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign" />
+  <meta name="citation_author_orcid" content="0000-0001-8374-9401" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -46,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/0a28e8517283c774a2bdd9d7dbe514d3cf990323/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/0a28e8517283c774a2bdd9d7dbe514d3cf990323/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/0a28e8517283c774a2bdd9d7dbe514d3cf990323/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/fd410c5106dd90bf58460bd335eab1ff73b57c87/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/fd410c5106dd90bf58460bd335eab1ff73b57c87/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/fd410c5106dd90bf58460bd335eab1ff73b57c87/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/0a28e8517283c774a2bdd9d7dbe514d3cf990323/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/fd410c5106dd90bf58460bd335eab1ff73b57c87/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@0a28e85](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/0a28e8517283c774a2bdd9d7dbe514d3cf990323)
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@fd410c5](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/fd410c5106dd90bf58460bd335eab1ff73b57c87)
 on September 6, 2022.
 </em></small>
 
@@ -92,13 +91,13 @@ on September 6, 2022.
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **YongjianMa**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-8374-9401](https://orcid.org/0000-0001-8374-9401)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [YongjianMa](https://github.com/YongjianMa)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign
   </small>
 
 + **Jane Roe**<br>
