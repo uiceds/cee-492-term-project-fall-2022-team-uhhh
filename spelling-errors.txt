@@ -4,6 +4,9 @@ aliquip
 amet
 anim
 aute
+bobbythewiggler
+BobbyWiggles
+Champaign
 cillum
 commodo
 consectetur
@@ -24,7 +27,6 @@ incididunt
 ipsum
 irure
 janeroe
-johndoe
 labore
 laboris
 laborum
@@ -47,6 +49,7 @@ sint
 sunt
 tempor
 ullamco
+Urbana
 velit
 veniam
 voluptate

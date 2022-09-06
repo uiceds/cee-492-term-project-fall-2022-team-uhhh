@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: CEE 492 Team Uhhh Project
 keywords:
 - markdown
 - publishing
@@ -7,7 +7,8 @@ keywords:
 lang: en-US
 date-meta: '2022-09-06'
 author-meta:
-- John Doe
+- Robert Wiggins
+- Jane Roe
 - Jane Roe
 header-includes: |-
   <!--
@@ -15,10 +16,10 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="CEE 492 Team Uhhh Project" />
+  <meta name="citation_title" content="CEE 492 Team Uhhh Project" />
+  <meta property="og:title" content="CEE 492 Team Uhhh Project" />
+  <meta property="twitter:title" content="CEE 492 Team Uhhh Project" />
   <meta name="dc.date" content="2022-09-06" />
   <meta name="citation_publication_date" content="2022-09-06" />
   <meta name="dc.language" content="en-US" />
@@ -27,10 +28,14 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="Robert Wiggins" />
+  <meta name="citation_author_institution" content="Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@bobbythewiggler" />
+  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -41,9 +46,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6ed60aa6bcc7d0bf5fe8d69d21e151f6b31675e8/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6ed60aa6bcc7d0bf5fe8d69d21e151f6b31675e8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6ed60aa6bcc7d0bf5fe8d69d21e151f6b31675e8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/0a28e8517283c774a2bdd9d7dbe514d3cf990323/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/0a28e8517283c774a2bdd9d7dbe514d3cf990323/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/0a28e8517283c774a2bdd9d7dbe514d3cf990323/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6ed60aa6bcc7d0bf5fe8d69d21e151f6b31675e8/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/0a28e8517283c774a2bdd9d7dbe514d3cf990323/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@6ed60aa](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/6ed60aa6bcc7d0bf5fe8d69d21e151f6b31675e8)
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@0a28e85](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/0a28e8517283c774a2bdd9d7dbe514d3cf990323)
 on September 6, 2022.
 </em></small>
 
@@ -75,16 +80,25 @@ on September 6, 2022.
 
 
 
-+ **John Doe**<br>
++ **Robert Wiggins**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [BobbyWiggles](https://github.com/BobbyWiggles)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [bobbythewiggler](https://twitter.com/bobbythewiggler)<br>
   <small>
-     Department of Something, University of Whatever
+     Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign
      · Funded by Grant XXXXXXXX
+  </small>
+
++ **Jane Roe**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 + **Jane Roe**<br>
