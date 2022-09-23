@@ -7,13 +7,13 @@
       "manubot"
     ],
     "lang": "en-US",
-    "date-meta": "2022-09-06",
+    "date-meta": "2022-09-23",
     "author-meta": [
       "Robert Wiggins",
       "YongjianMa",
       "Muhammad"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"CEE 492 Team Uhhh Project\" />\n<meta name=\"citation_title\" content=\"CEE 492 Team Uhhh Project\" />\n<meta property=\"og:title\" content=\"CEE 492 Team Uhhh Project\" />\n<meta property=\"twitter:title\" content=\"CEE 492 Team Uhhh Project\" />\n<meta name=\"dc.date\" content=\"2022-09-06\" />\n<meta name=\"citation_publication_date\" content=\"2022-09-06\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Robert Wiggins\" />\n<meta name=\"citation_author_institution\" content=\"Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@bobbythewiggler\" />\n<meta name=\"citation_author\" content=\"YongjianMa\" />\n<meta name=\"citation_author_institution\" content=\"Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8374-9401\" />\n<meta name=\"citation_author\" content=\"Muhammad\" />\n<meta name=\"citation_author_institution\" content=\"Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/\" />\n<meta property=\"og:url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/\" />\n<meta property=\"twitter:url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/\" />\n<meta name=\"citation_pdf_url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"CEE 492 Team Uhhh Project\" />\n<meta name=\"citation_title\" content=\"CEE 492 Team Uhhh Project\" />\n<meta property=\"og:title\" content=\"CEE 492 Team Uhhh Project\" />\n<meta property=\"twitter:title\" content=\"CEE 492 Team Uhhh Project\" />\n<meta name=\"dc.date\" content=\"2022-09-23\" />\n<meta name=\"citation_publication_date\" content=\"2022-09-23\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Robert Wiggins\" />\n<meta name=\"citation_author_institution\" content=\"Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@bobbythewiggler\" />\n<meta name=\"citation_author\" content=\"YongjianMa\" />\n<meta name=\"citation_author_institution\" content=\"Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8374-9401\" />\n<meta name=\"citation_author\" content=\"Muhammad\" />\n<meta name=\"citation_author_institution\" content=\"Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/\" />\n<meta property=\"og:url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/\" />\n<meta property=\"twitter:url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/\" />\n<meta name=\"citation_pdf_url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -23,7 +23,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "September 6, 2022",
+    "date": "September 23, 2022",
     "authors": [
       {
         "github": "BobbyWiggles",
@@ -84,19 +84,19 @@
       "repo_slug": "uiceds/cee-492-term-project-fall-2022-team-uhhh",
       "repo_owner": "uiceds",
       "repo_name": "cee-492-term-project-fall-2022-team-uhhh",
-      "commit": "33cfe463e51b91888abd9730ec7281ef8fa0f9ea",
-      "triggering_commit": "33cfe463e51b91888abd9730ec7281ef8fa0f9ea",
-      "build_url": "https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/commit/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/checks",
+      "commit": "6b02c380bdc439d21dc452ec8f4b050aaee9afc5",
+      "triggering_commit": "6b02c380bdc439d21dc452ec8f4b050aaee9afc5",
+      "build_url": "https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/commit/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/checks",
       "job_url": "https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/runs/__run_3"
     },
     "html_url": "https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/",
     "pdf_url": "https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf",
-    "html_url_versioned": "https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/",
-    "pdf_url_versioned": "https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/manuscript.pdf",
+    "html_url_versioned": "https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/",
+    "pdf_url_versioned": "https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": null,
     "manuscript_stats": {
-      "word_count": 1404
+      "word_count": 1821
     }
   }
 }

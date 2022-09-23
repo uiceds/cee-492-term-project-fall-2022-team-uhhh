@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-09-06'
+date-meta: '2022-09-23'
 author-meta:
 - Robert Wiggins
 - YongjianMa
@@ -20,8 +20,8 @@ header-includes: |-
   <meta name="citation_title" content="CEE 492 Team Uhhh Project" />
   <meta property="og:title" content="CEE 492 Team Uhhh Project" />
   <meta property="twitter:title" content="CEE 492 Team Uhhh Project" />
-  <meta name="dc.date" content="2022-09-06" />
-  <meta name="citation_publication_date" content="2022-09-06" />
+  <meta name="dc.date" content="2022-09-23" />
+  <meta name="citation_publication_date" content="2022-09-23" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/33cfe463e51b91888abd9730ec7281ef8fa0f9ea/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/6b02c380bdc439d21dc452ec8f4b050aaee9afc5/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@33cfe46](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/33cfe463e51b91888abd9730ec7281ef8fa0f9ea)
-on September 6, 2022.
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@6b02c38](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/6b02c380bdc439d21dc452ec8f4b050aaee9afc5)
+on September 23, 2022.
 </em></small>
 
 ## Authors
@@ -110,7 +110,27 @@ on September 6, 2022.
 
 
 
-## Abstract {.page_break_before}
+## Effects of Energy Consumption Industries on Carbon Emissions by Country {.page_break_before}
+
+Written by: Yongjian Ma, Muhammad Hanzla Rafaqat, Robert Wiggins
+
+Description:
+
+	The datasets of interest are housed within a collection of datasets titled “Compiled Datasets for CDP Analytics Competition.” The dataset was published to Kaggle by user “seraphimstreets.” and features data collected and cited from several reputable organizations, such as Organization for Economic Co-operation Development, The Institute for Health metrics and Evaluation, and The World Resource Institute. 
+
+	The first dataset in question is titled “Percent of Energy Consumption by Country.” The dataset is a CSV file containing 11 columns of data. The first three columns include the country and year the data in each row was obtained from, as well as the corresponding country codes. The next eight columns list the percentages of each industry’s energy consumption within each country in a given year. The industries recorded include coal, gas, oil, hydroelectric, nuclear, solar, wind, and biomass.
+
+	The second dataset in question is titled “CO2 Emissions by Country.” The dataset is also a CSV file containing 4 columns of data. The first three columns again include the country and year the data in each row was obtained from, as well as the corresponding country codes. The last column lists the CO2 emissions from each country in a given year.
+
+Proposal:
+
+	With the increasing amount of CO2 emissions worldwide and the difficulty of establishing meaningful efforts to combat the increasing climate crisis, it is integral to pinpoint the major contributors to climate change and work to lower the CO2 emissions produced by these contributors as much as possible. With the dataset collection in question, there seems to be an abundance of data available to determine the major contributors to climate change, as well as the energy industries that contribute the least amount of CO2 emissions. Our group plans to use these datasets to analyze how each energy industry contributes to CO2 emissions within each country and determine which industries require the most changes and limitations to curb the increasing effects of climate change.
+
+	Furthermore, total annual CO2 emissions deviate between countries, as some countries have become more industrialized than others over the years. Therefore, our group is also interested in analyzing the contributions of each country’s industries to climate change and determining the countries that require the most changes and limitations to carbon emissions as well, in order to curb the effects of climate change without directly targeting less industrialized countries who do not contribute nearly as much.
+ 
+Source:
+
+	https://www.kaggle.com/datasets/seraphimstreets/environmentequity-starterpack
 
 
 
