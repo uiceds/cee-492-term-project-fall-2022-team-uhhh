@@ -44,9 +44,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f086f3bbdd3cbb70cc081d89ffe93f3ca4c89723/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f086f3bbdd3cbb70cc081d89ffe93f3ca4c89723/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f086f3bbdd3cbb70cc081d89ffe93f3ca4c89723/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/00d7c87164cf1da1d8a82f467c2714c5ca9dacd4/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/00d7c87164cf1da1d8a82f467c2714c5ca9dacd4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/00d7c87164cf1da1d8a82f467c2714c5ca9dacd4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f086f3bbdd3cbb70cc081d89ffe93f3ca4c89723/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/00d7c87164cf1da1d8a82f467c2714c5ca9dacd4/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@f086f3b](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/f086f3bbdd3cbb70cc081d89ffe93f3ca4c89723)
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@00d7c87](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/00d7c87164cf1da1d8a82f467c2714c5ca9dacd4)
 on September 23, 2022.
 </em></small>
 
@@ -109,7 +109,7 @@ on September 23, 2022.
 
 
 
-## Effects of Energy Consumption Industries on Carbon Emissions by Country 
+## Effects of Energy Consumption Industries on Carbon Emissions by Country {.page_break_before}
 
 Written by: Yongjian Ma, Muhammad Hanzla Rafaqat, Robert Wiggins
 
