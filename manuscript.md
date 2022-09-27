@@ -5,9 +5,9 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-09-23'
+date-meta: '2022-09-27'
 author-meta:
-- Robert Wiggins
+- Robert Joseph Wiggins
 - YongjianMa
 - Muhammad
 header-includes: |-
@@ -20,15 +20,15 @@ header-includes: |-
   <meta name="citation_title" content="CEE 492 Team Uhhh Project" />
   <meta property="og:title" content="CEE 492 Team Uhhh Project" />
   <meta property="twitter:title" content="CEE 492 Team Uhhh Project" />
-  <meta name="dc.date" content="2022-09-23" />
-  <meta name="citation_publication_date" content="2022-09-23" />
+  <meta name="dc.date" content="2022-09-27" />
+  <meta name="citation_publication_date" content="2022-09-27" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Robert Wiggins" />
+  <meta name="citation_author" content="Robert Joseph Wiggins" />
   <meta name="citation_author_institution" content="Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@bobbythewiggler" />
@@ -44,17 +44,16 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/7453208660cece186576360d2615db4011759ad3/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/7453208660cece186576360d2615db4011759ad3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/7453208660cece186576360d2615db4011759ad3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
   <!-- end Manubot generated metadata -->
-bibliography:
-- content/manual-references.json
+bibliography: []
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
@@ -68,17 +67,17 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/7453208660cece186576360d2615db4011759ad3/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@7453208](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/7453208660cece186576360d2615db4011759ad3)
-on September 23, 2022.
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@f99f900](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8)
+on September 27, 2022.
 </em></small>
 
 ## Authors
 
 
 
-+ **Robert Wiggins**<br>
++ **Robert Joseph Wiggins**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
@@ -132,9 +131,3 @@ Source:
 https://www.kaggle.com/datasets/seraphimstreets/environmentequity-starterpack
 
 
-
-
-## References {.page_break_before}
-
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>

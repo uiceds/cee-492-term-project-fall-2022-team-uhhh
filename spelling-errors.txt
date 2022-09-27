@@ -5,7 +5,7 @@ CDP
 Champaign
 CSV
 dataset
-Datasets
+datasets
 hanzla
 Kaggle
 Rafaqat
