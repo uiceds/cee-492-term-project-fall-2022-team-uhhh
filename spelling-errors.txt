@@ -10,7 +10,6 @@ EJ
 Exajoul
 hanzla
 Kaggle
-png
 Rafaqat
 seraphimstreets
 Terawatt
