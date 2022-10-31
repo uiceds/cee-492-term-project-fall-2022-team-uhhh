@@ -20,3 +20,31 @@ content/01.abstract.md:15:datasets
 content/01.abstract.md:21:datasets
 content/01.abstract.md:21:kaggle
 content/01.abstract.md:21:seraphimstreets
+content/02. Exploratory Data Analysis.md:2:Analytics
+content/02. Exploratory Data Analysis.md:2:CDP
+content/02. Exploratory Data Analysis.md:2:dataset
+content/02. Exploratory Data Analysis.md:2:datasets
+content/02. Exploratory Data Analysis.md:2:datasets
+content/02. Exploratory Data Analysis.md:2:Datasets
+content/02. Exploratory Data Analysis.md:2:Kaggle
+content/02. Exploratory Data Analysis.md:2:seraphimstreets
+content/02. Exploratory Data Analysis.md:4:CSV
+content/02. Exploratory Data Analysis.md:4:dataset
+content/02. Exploratory Data Analysis.md:4:dataset
+content/02. Exploratory Data Analysis.md:6:CSV
+content/02. Exploratory Data Analysis.md:6:dataset
+content/02. Exploratory Data Analysis.md:6:dataset
+content/02. Exploratory Data Analysis.md:14:dataset
+content/02. Exploratory Data Analysis.md:14:datasets
+content/02. Exploratory Data Analysis.md:14:datasets
+content/02. Exploratory Data Analysis.md:14:EJ
+content/02. Exploratory Data Analysis.md:14:Exajoul
+content/02. Exploratory Data Analysis.md:14:Terawatt
+content/02. Exploratory Data Analysis.md:14:TWh
+content/02. Exploratory Data Analysis.md:16:dataset
+content/02. Exploratory Data Analysis.md:16:dataset
+content/02. Exploratory Data Analysis.md:18:dataset
+content/02. Exploratory Data Analysis.md:18:datasets
+content/02. Exploratory Data Analysis.md:19:png
+content/02. Exploratory Data Analysis.md:20:png
+content/02. Exploratory Data Analysis.md:21:datasets
