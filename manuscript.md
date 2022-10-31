@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-09-27'
+date-meta: '2022-10-31'
 author-meta:
 - Robert Joseph Wiggins
 - YongjianMa
@@ -20,8 +20,8 @@ header-includes: |-
   <meta name="citation_title" content="CEE 492 Team Uhhh Project" />
   <meta property="og:title" content="CEE 492 Team Uhhh Project" />
   <meta property="twitter:title" content="CEE 492 Team Uhhh Project" />
-  <meta name="dc.date" content="2022-09-27" />
-  <meta name="citation_publication_date" content="2022-09-27" />
+  <meta name="dc.date" content="2022-10-31" />
+  <meta name="citation_publication_date" content="2022-10-31" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/7ef50f9ca70f9e10dbdf77db56ee7a3160a66b21/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/7ef50f9ca70f9e10dbdf77db56ee7a3160a66b21/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/7ef50f9ca70f9e10dbdf77db56ee7a3160a66b21/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/7ef50f9ca70f9e10dbdf77db56ee7a3160a66b21/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@f99f900](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/f99f90005e4f690edc105c7d4b3a518f9e5aa7b8)
-on September 27, 2022.
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@7ef50f9](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/7ef50f9ca70f9e10dbdf77db56ee7a3160a66b21)
+on October 31, 2022.
 </em></small>
 
 ## Authors
