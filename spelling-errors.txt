@@ -6,10 +6,12 @@ Champaign
 CSV
 dataset
 datasets
+EF
 EJ
 Exajoul
 hanzla
 Kaggle
+png
 Rafaqat
 seraphimstreets
 Terawatt

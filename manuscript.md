@@ -44,9 +44,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/d621f4e9bdbe36cbfa55242f62a19ebc6939a302/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/d621f4e9bdbe36cbfa55242f62a19ebc6939a302/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/d621f4e9bdbe36cbfa55242f62a19ebc6939a302/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/eb35f0ab99b8e1cebdb2d4690f26fb75f8fb226c/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/eb35f0ab99b8e1cebdb2d4690f26fb75f8fb226c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/eb35f0ab99b8e1cebdb2d4690f26fb75f8fb226c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/d621f4e9bdbe36cbfa55242f62a19ebc6939a302/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/eb35f0ab99b8e1cebdb2d4690f26fb75f8fb226c/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@d621f4e](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/d621f4e9bdbe36cbfa55242f62a19ebc6939a302)
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@eb35f0a](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/eb35f0ab99b8e1cebdb2d4690f26fb75f8fb226c)
 on October 31, 2022.
 </em></small>
 
@@ -152,20 +152,23 @@ Secondly, since this dataset is about energy consumption during 1965-2018, there
 
 Thirdly, these datasets contain several data representing a massive region like South Africa or Mid East. These data caused duplication problems when I tried to get the total energy consumption per year. To get a straightforward and convenient dataset, I only collected the data from a specific country or region like the United States or China.
 
-![picture 1](../images/72cdc3544c9cf06d724ee891c24c55ef925f557a86c7b212fe6a239bfd736a75.png)  
-![picture 2](../images/269b4d817aa189295882599485b48d9960f369d6945b0040b866b2d4e652bfc3.png)  
+
+![p1](images/Fig1(1).jpg)
+![p2](images/Fig%201(2%EF%BC%89.png)
 Fig 1. Organize and Clean the datasets
 
 After Organizing and cleaning the datasets, I eventually can preliminary analyze the data. From Fig2, energy consumption in the whole world has been rising gradually during the last 50 years. Oil, Coal, and Gas are the three main categories that increased the fastest. From 2000 to 2010, it’s been a tremendous improvement in the consumption of Coal. 
-![picture 3](../images/68d3ff434252d7f67e40ebb50de39803738c4aeb0398812680165ec70108ce12.png)  
+![p3](images/Fig2.png)
 Fig 2. Different Types of Energy Consumption Per Year
 
 Depends on whether the source of energy is reproducible, we can divide Oil, Coal, and Gas into non-renewable resource, and divide Geo biomass, Hydro, Nuclear, Solar, Wind into renewable resources. Based on the classification, the trend of different type of consumed energy can be plot.
-![picture 4](../images/4bdd99f0dca4376de845b4c294b9a97a72f631c150f67953e3d9086887b5573e.png)  
+![p4](images/Fig3.png)
 Fig 3. Trend of Different type of Consumed Energy
 
 From CO2 emission data, I can get CO2 emission quantity in each country/region and receive a ranking list.
-![picture 6](../images/89ebaab419477d176722fcad4d63c443b84eedb461b8aefc3f49ef7f751be8ab.png)  
+![p5](images/Fig4.jpg)
+Fig 4. Top 5 CO2 Emission Countries
+
 My next plan for data analysis is to meticulously analysis energy consumption construction and CO2 emission change in these five countries.
 
 Predictive Modeling:
