@@ -54,7 +54,9 @@ Fig 4. Top 5 CO2 Emission Countries
 &emsp;In the introduction part, we decide to solve the problem of predicting CO2 emission tendency per year. Therefore, the overall dataset is used for training in this project, while annual summary data is used for validating and testing.
 ### Linear regression Modeling
 &emsp;Linear regression is a linear approach for modeling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables) (Freedman, 2009). In linear regression, the relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data. The most straightforward formulation of the predicted model is shown below.
+
 ![Fomula](Final%20Report%20Image/Formula.png)
+
 &emsp;In this project, since the training dataset has eight independent variables (exclude year), There will have nine parameters to fit the dependent variable. In the training process, mean squared error is a simple but effective way to determine the difference between model predictions and actual observations. The optimizer of this machine learning process is gradient descent to return the value that minimizes the result. The overall code is listed below.
 
 a) ``` function model(x::Matrix{T}, p::Vector{T})::Vector{T} where T<:AbstractFloat
