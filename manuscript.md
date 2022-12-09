@@ -1,5 +1,5 @@
 ---
-title: CEE 492 Team Uhhh Project
+title: Effects of Energy Consumption Industries on Carbon Emissions by Country
 keywords:
 - markdown
 - publishing
@@ -16,10 +16,10 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="CEE 492 Team Uhhh Project" />
-  <meta name="citation_title" content="CEE 492 Team Uhhh Project" />
-  <meta property="og:title" content="CEE 492 Team Uhhh Project" />
-  <meta property="twitter:title" content="CEE 492 Team Uhhh Project" />
+  <meta name="dc.title" content="Effects of Energy Consumption Industries on Carbon Emissions by Country" />
+  <meta name="citation_title" content="Effects of Energy Consumption Industries on Carbon Emissions by Country" />
+  <meta property="og:title" content="Effects of Energy Consumption Industries on Carbon Emissions by Country" />
+  <meta property="twitter:title" content="Effects of Energy Consumption Industries on Carbon Emissions by Country" />
   <meta name="dc.date" content="2022-12-09" />
   <meta name="citation_publication_date" content="2022-12-09" />
   <meta name="dc.language" content="en-US" />
@@ -44,9 +44,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a6debf528e9a18e16fd327f36dcca3ecb4c93699/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a6debf528e9a18e16fd327f36dcca3ecb4c93699/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a6debf528e9a18e16fd327f36dcca3ecb4c93699/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/c1f2e1bf98d99c1db738f137adca4b4705ada31c/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/c1f2e1bf98d99c1db738f137adca4b4705ada31c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/c1f2e1bf98d99c1db738f137adca4b4705ada31c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a6debf528e9a18e16fd327f36dcca3ecb4c93699/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/c1f2e1bf98d99c1db738f137adca4b4705ada31c/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@a6debf5](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/a6debf528e9a18e16fd327f36dcca3ecb4c93699)
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@c1f2e1b](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/c1f2e1bf98d99c1db738f137adca4b4705ada31c)
 on December 9, 2022.
 </em></small>
 
