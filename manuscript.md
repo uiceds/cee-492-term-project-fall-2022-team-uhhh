@@ -44,9 +44,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a2724ad4702efcfd8194819872a9fba1d83d685c/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a2724ad4702efcfd8194819872a9fba1d83d685c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a2724ad4702efcfd8194819872a9fba1d83d685c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a6debf528e9a18e16fd327f36dcca3ecb4c93699/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a6debf528e9a18e16fd327f36dcca3ecb4c93699/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a6debf528e9a18e16fd327f36dcca3ecb4c93699/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a2724ad4702efcfd8194819872a9fba1d83d685c/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/a6debf528e9a18e16fd327f36dcca3ecb4c93699/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@a2724ad](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/a2724ad4702efcfd8194819872a9fba1d83d685c)
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@a6debf5](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/a6debf528e9a18e16fd327f36dcca3ecb4c93699)
 on December 9, 2022.
 </em></small>
 
@@ -108,68 +108,194 @@ on December 9, 2022.
 
 
 
-## Effects of Energy Consumption Industries on Carbon Emissions by Country {.page_break_before}
+# Rough Draft of the Final Report
 
-Written by: Yongjian Ma, Muhammad Hanzla Rafaqat, Robert Wiggins
+## Introduction
 
-Description:
+&emsp;With the increasing amount of CO2 emissions worldwide and the difficulty of establishing meaningful efforts to combat the increasing climate crisis, it is integral to pinpoint the significant contributors to climate change and work to lower the CO2 emissions produced by these contributors as much as possible. With the dataset collection for the project, there is an abundance of data available to determine the significant contributors to climate change and the energy industries that contribute the least amount of CO2 emissions. Our group plans to use these datasets to analyze how each energy industry contributes to CO2 emissions within each country and determine which industries require the most changes and limitations to curb the increasing effects of climate change.
 
-The datasets of interest are housed within a collection of datasets titled “Compiled Datasets for CDP Analytics Competition.” The dataset was published to Kaggle by user “seraphimstreets.” and features data collected and cited from several reputable organizations, such as Organization for Economic Co-operation Development, The Institute for Health metrics and Evaluation, and The World Resource Institute. 
+&emsp;Furthermore, total annual CO2 emissions deviate between countries, as some countries have become more industrialized than others over the years. Therefore, our group is also interested in analyzing the contributions of each country’s industries to climate change and determining the countries that require the most changes and limitations to carbon emissions as well, in order to curb the effects of climate change without directly targeting less industrialized countries who do not contribute nearly as much.
 
-The first dataset in question is titled “Percent of Energy Consumption by Country.” The dataset is a CSV file containing 11 columns of data. The first three columns include the country and year the data in each row was obtained from, as well as the corresponding country codes. The next eight columns list the percentages of each industry’s energy consumption within each country in a given year. The industries recorded include coal, gas, oil, hydroelectric, nuclear, solar, wind, and biomass.
+&emsp;In order to withstand the global warming effect, which is mainly caused by CO2, governments over the world have come together and come up with stringent standards for CO2 emissions to lessen the CO2 discharge. On the other hand, the industrial and economic development of the country is absolutely inseparable from energy consumption. In this dilemma, analyzing CO2 emissions through different energy consumption methods provides necessary guidance in industry development. As a result, a well-trained prediction model based on actual data plays a significant role since it can provide convenience in predicting CO2 emissions.
 
-The second dataset in question is titled “CO2 Emissions by Country.” The dataset is also a CSV file containing 4 columns of data. The first three columns again include the country and year the data in each row was obtained from, as well as the corresponding country codes. The last column lists the CO2 emissions from each country in a given year.
+## Exploratory analysis
 
-Proposal:
+&emsp; The datasets of interest are collected and cited from reputable organizations, such as Organization for Economic Co-operation Development, The Institute for Health Metrics and Evaluation, and The World Resource Institute.
 
-With the increasing amount of CO2 emissions worldwide and the difficulty of establishing meaningful efforts to combat the increasing climate crisis, it is integral to pinpoint the major contributors to climate change and work to lower the CO2 emissions produced by these contributors as much as possible. With the dataset collection in question, there seems to be an abundance of data available to determine the major contributors to climate change, as well as the energy industries that contribute the least amount of CO2 emissions. Our group plans to use these datasets to analyze how each energy industry contributes to CO2 emissions within each country and determine which industries require the most changes and limitations to curb the increasing effects of climate change.
+&emsp;The first dataset is titled “Percent of Energy Consumption by Country.” The dataset is a CSV file containing 11 columns of data. The first three columns include the country and year the data in each row was obtained from, as well as the corresponding country codes. The next eight columns list the percentages of each industry’s energy consumption within each country in a given year. The industries recorded include coal, gas, oil, hydroelectric, nuclear, solar, wind, and biomass.
 
-Furthermore, total annual CO2 emissions deviate between countries, as some countries have become more industrialized than others over the years. Therefore, our group is also interested in analyzing the contributions of each country’s industries to climate change and determining the countries that require the most changes and limitations to carbon emissions as well, in order to curb the effects of climate change without directly targeting less industrialized countries who do not contribute nearly as much.
- 
-Source:
+&emsp;The second dataset in question is titled “CO2 Emissions by Country.” The dataset is also a CSV file containing four columns of data. The first three columns again include the country and year the data in each row was obtained from, as well as the corresponding country codes. The last column lists the CO2 emissions from each country in a given year. The combination of two datasets can provide us with datasets open to analysis of the relationship between different energy consumption methods and CO2 emission.
 
-https://www.kaggle.com/datasets/seraphimstreets/environmentequity-starterpack
+&emsp;Re-organization and cleaning are beneficial for understanding the datasets. Initially, the biggest problem of these datasets is the problem of the unit. Some sorts of energy consumption categories are listed by Terawatt-hour(TWh), while others are listed by Exajoul(EJ). So, clarifying and transferring the unit of energy allow comparison between different energy consumption methods. 
 
+&emsp;Secondly, since this dataset is about energy consumption during 1965-2018, several data were missed because some countries/regions did not begin investigating the consumption of energy level at a very early age. These missing data will significantly disturb the calculation of the dataset and cause an error during code running. The “replace” function can be used to change all missing data to 0.
 
+&emsp;Thirdly, these datasets contain several data representing a massive region like South Africa or Mid East. These data caused duplication problems when we tried to get the total energy consumption per year. To get a straightforward and convenient dataset, we only collected the data from a specific country or region like the United States or China. The result of the re-organization and cleaning of the dataset is shown in Fig 1.
 
+![p1](Final%20Report%20Image/Figure%201.jpg "Figure 1")
+Figure 1. Result of re-organization and cleaning the dataset. The upper table indicates the original state of the dataset. The bottom table demonstrates the dataset after re-organization and cleaning.
 
-Description:
-The datasets of interest are housed within a collection of datasets titled “Compiled Datasets for CDP Analytics Competition.” The dataset was published to Kaggle by user “seraphimstreets.” and features data collected and cited from several reputable organizations, such as Organization for Economic Co-operation Development, The Institute for Health metrics and Evaluation, and The World Resource Institute.
+&emsp;Figure 2 shows different energy consumption methods' tendencies to change during the last 60 years over the world. From Fig 2, energy consumption worldwide has risen gradually over the last 50 years. Oil, Coal, and Gas are the three main categories that increased the fastest. From 2000 to 2010, it has been a tremendous improvement in the consumption of coal. Energy consumption methods other than oil, coal, and gas synchronously rise. However, the total quantity is negligible compared to the three main energy consumption categories.
 
-The first dataset in question is titled “Percent of Energy Consumption by Country”. The dataset is a CSV file containing 11 columns of data. The first three columns include the country and year the data in each row was obtained from, as well as the corresponding country codes. The next eight columns list the percentages of each industry’s energy consumption within each country in a given year. The industries recorded include coal, gas, oil, hydroelectric, nuclear, solar, wind, and biomass.
+<center>
 
-The second dataset in question is titled “CO2 Emissions by Country.” The dataset is also a CSV file containing 4 columns of data. The first three columns again include the country and year the data in each row was obtained from, as well as the corresponding country codes. The last column lists the CO2 emissions from each country in a given year.
+![p2](Final%20Report%20Image/Figure%202.jpg "Figure 2") </center>
+Figure 2. Different Types of Energy Consumption Per Year. The x-axis is year. The y-axis is energy consumption amount over the whole world.
 
-Prior to directly analyzing any data, our group first decided to generate overarching questions about the nature of our data, the relationships we could identify between variables, and how these relationships reinforce our project goals. The following four questions were generated:
-	Is there a strong correlation between energy consumption and CO2 emissions? If so, what energy industries are responsible for the most CO2 emissions?
-	How have energy consumption and CO2 emissions changed since 1965? Have there any significant increases or decreases, or have these variables remained generally stagnant?
-	How do changes in energy consumption and CO2 emissions over the years differ between countries? Have some countries made greater efforts to reduce their energy consumption and CO2 emissions? Have any countries increased these variables?
-While these questions do not necessarily account for all potential trends within our data, we believe they comprise the most important features of our data and cover our general project goals.
+<center>
 
-To have a better understanding of the dataset, I have to organize and clean datasets. Initially, the biggest problem of these datasets is the problem of the unit. Some sorts of energy consumption categories are listed by Terawatt-hour(TWh), while others are listed by Exajoul(EJ). So, clarifying and transferring the unit of energy is beneficial for data analysis and comparison. 
+![p3](Final%20Report%20Image/Figure%203.jpg "Figure 3") </center>
+Figure 3. The relationship between CO2 emission amount worldwide and year.
 
-Secondly, since this dataset is about energy consumption during 1965-2018, there are several data missed because some countries/regions didn’t begin investigating the consumption of energy level at a very early age. These missing data will significantly disturb the calculation of the dataset and cause an error during code running. To solve this problem, I used “replace” function to change all missing data to 0.
+&emsp;Figure 3 indicates the CO2 emission amount worldwide variation trend during the last 60 years. CO2 emission amount has gradually risen to a high level. Controlling carbon emissions is more urgent as industrial and economic blooming.
 
-Thirdly, these datasets contain several data representing a massive region like South Africa or Mid East. These data caused duplication problems when I tried to get the total energy consumption per year. To get a straightforward and convenient dataset, I only collected the data from a specific country or region like the United States or China.
+&emsp;From CO2 emission data, CO2 emission quantity in each country/region can be provided and ranked. The top three counties are good examples to be analysis. 
 
+<center>
 
-![p1](images/Fig1(1).jpg)
-![p2](images/Fig%201(2%EF%BC%89.png)
-Fig 1. Organize and Clean the datasets
-
-After Organizing and cleaning the datasets, I eventually can preliminary analyze the data. From Fig2, energy consumption in the whole world has been rising gradually during the last 50 years. Oil, Coal, and Gas are the three main categories that increased the fastest. From 2000 to 2010, it’s been a tremendous improvement in the consumption of Coal. 
-![p3](images/Fig2.png)
-Fig 2. Different Types of Energy Consumption Per Year
-
-Depends on whether the source of energy is reproducible, we can divide Oil, Coal, and Gas into non-renewable resource, and divide Geo biomass, Hydro, Nuclear, Solar, Wind into renewable resources. Based on the classification, the trend of different type of consumed energy can be plot.
-![p4](images/Fig3.png)
-Fig 3. Trend of Different type of Consumed Energy
-
-From CO2 emission data, I can get CO2 emission quantity in each country/region and receive a ranking list.
-![p5](images/Fig4.jpg)
+![p4](Final%20Report%20Image/Figure%204.jpg "Figure 4")</center>
 Fig 4. Top 5 CO2 Emission Countries
 
-My next plan for data analysis is to meticulously analysis energy consumption construction and CO2 emission change in these five countries.
+## Predictive modeling
+&emsp;In order to research and solve the question we put forward in the introduction, machine learning techniques are used to analyze and build a model that can adequately simulate real situations and provide a relatively reliable prediction for the future. In this project, linear regression and neural network are two elected techniques based on the existing dataset. 
 
-Predictive Modeling:
-I will use energy consumption construction in different countries as the independent variable, use CO2 emission data as the dependent variable, and building a model. Through training by the dataset, I can get a model which can predict CO2 emission in the future, which can play a guiding role in environmental protection work.
+&emsp;According to plots of correlation, every independent variable has a pretty distinct positive or negative relationship with the dependent variable. Besides, real-life experience can provide evidence that supports using a linear regression model. The neural network is chosen because of its complexity and adaptivity. The predicted result of different models can be used to compare, validate and analyze the advantages and disadvantages of different technologies and solve the question better.
+
+&emsp;In the introduction part, we decide to solve the problem of predicting CO2 emission tendency per year. Therefore, the overall dataset is used for training in this project, while annual summary data is used for validating and testing.
+### Linear regression Modeling
+&emsp;Linear regression is a linear approach for modeling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables) (Freedman, 2009). In linear regression, the relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data. The most straightforward formulation of the predicted model is shown below.
+
+![Fomula](Final%20Report%20Image/Formula.png)
+
+&emsp;In this project, since the training dataset has eight independent variables (exclude year), There will have nine parameters to fit the dependent variable. In the training process, mean squared error is a simple but effective way to determine the difference between model predictions and actual observations. The optimizer of this machine learning process is gradient descent to return the value that minimizes the result. The overall code is listed below.
+
+a) ``` function model(x::Matrix{T}, p::Vector{T})::Vector{T} where T<:AbstractFloat
+	return y = x * p[1:(length(p)-1)] .+ p[length(p)] end ```
+
+b) ```function mse(ŷ::Vector{T}, y::Vector{T})::T where T<:AbstractFloat
+	mse = ((ŷ .- y).^2) ./ length(y)
+	return sum(mse)
+end```
+
+c) ```function minimize!(f_model::Function, x::Matrix{T}, y::Vector{T}, p::Vector{T}, η::T, num_steps::Int)::Vector{T} where T<:AbstractFloat
+	err(p) = mse(f_model(x, p), y)
+	for num in 1:num_steps
+		p -= err'(p) * η
+	end
+	return p
+end```
+
+d) ``` function train_model(x::Matrix{T},y::Vector{T})::Vector{T} where T<:AbstractFloat
+	b = Matrix(x)
+	a = size(b)
+	p = rand(a[2]+1)
+	m = minimize!(model,b,y,p,0.01,100000)
+	return m
+end```
+Figure 5. Origin code for the linear regression model. a) shows the formula of the model. b) is the code for the model error. c) is the part of gradient descent. The learning rate of 0.01 and learning step 10000 are determined by the result of training. d) is the execution step to get the parameters of the linear regression model.
+
+&emsp;In Table 1, we can find the parameters which be calculated after the overall dataset is put in. The predicted result for the training dataset is shown in Fig 6. From Fig 6, we can find that this model works well on the training model. The error between the predicted and actual amounts is low enough to provide a solid prediction result. In the plot, we can find that 20 points are floating on the yellow linear, representing that the predicted amounts are much higher than the actual amount. This problem exists no matter how the learning rate and learning steps change. As a result, These data can be judged as incorrect data caused by inaccurate statistics.
+
+Table 1. The parameters of linear regression model
+| β | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 0 | 
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| Value | 92.291 | 47.618 | 61.224 | 65.271 | 46.242 | 100.509 | 22.153 | 101.883 | 0.801 | 
+<center>
+
+![p6](Final%20Report%20Image/Figure%206.jpg "Figure 6")</center>
+Figure 6. The result of applying the parameters on training data. The RMSE of this model on the training dataset is 73.3 kilotons. In the plot, the x-axis is the actual CO2 emission amount, while the y-axis represents the predicted CO2 emission amount calculated by the linear regression model. The yellow represents that the predicted amount is equal to the actual amount.
+
+### Validation the linear regression Model
+&emsp;In order to affirm whether the parameters can fit appropriately in other conditions, testing datasets are introduced to check the veracity of this model. To guarantee the complexity of the testing dataset, there are four training datasets, the world’s annual CO2 emission, The United States’ annual CO2 emission, China’s annual CO2 emission, and Russia’s annual CO2 emission. The three countries’ data are chosen since these three countries are the first three countries in the rank of total CO2 emission. The result of validation is shown in Fig 7.
+&emsp;Figure 7 indicates that the linear regression model works well in most cases. The predicted results are similar to actual data in most cases. However, there are still several errors that are demonstrated in the plot.
+<center>
+
+![p7](Final%20Report%20Image/Figure%207.jpg "Figure 7")</center>
+Figure 7. The results of applying linear regression model on testing datasets. The upper plot in each section shows the data difference between the predicted and actual amounts. The bottom plot indicates CO2 emission data changing over time change. The yellow line represents the predicted amount, while the blue line represents the actual amount. a) the result of applying the model to annual CO2 emission data. The RMSE is 1569.8 kilotons. b) the result of applying the model to The United States CO2 emission data. The RMSE is 143.2 kilotons. c) the result of applying the model to China CO2 emission data. The RMSE is 159.0 kilotons. d) the result of applying the model to Russia CO2 emission data. The RMSE is 545.2 kilotons.
+
+&emsp;In forecasting results for total world CO2 emission amount, six points are remarkably lower than actual amounts. From the CO2 emission and year relation plot, we can find these points fasten on the first several years in the timeline. After checking the original dataset, we find that the reason behind this phenomenon is that there is no statistical data for oil consumption from 1965 to 1970. Since oil consumption plays a significant role in CO2 emission, the missing data can easily cause mistakes in data forecasting. 
+
+&emsp;The other significant fault is shown in Russia’s CO2 emission dataset. From the bottom plot, we can find the imitative effect of the training model keeps a deficient level from 1965 to 1985. After that time, the prediction becomes more accurate. As I mentioned before, there are 20 points that contain incorrect data. After comparing the original dataset, we find that these data have a statistical problem. The tendency is strange, which is shown in Fig 8.
+<center>
+
+![p8](Final%20Report%20Image/Figure%208.jpg "Figure 8")</center>
+Figure 8. Different kinds of energy consumption per year in Russia. In the plot, different species of energy consumption ways are separated by color.
+
+&emsp;In general, the Linear regression model serves properly to predict CO2 emission in different countries when all of the independent variables all in readiness. This model can be used to estimate CO2 emissions after acquiring energy consumption data. In the real world, the government calculates CO2 emissions with the guidance of the Intergovernmental Panel on Climate Change (IPCC). The fingerpost from IPCC only concentrates on oil, coal, and gas, which is reasonable in the real world. The achievement of this project might play a complementary role in estimating CO2 emissions in every country.
+
+### Neural Network Modeling
+
+&emsp;The second model for prediction is the neural network model. A neural network is a network or circuit of biological neurons or, in a modern sense, an artificial neural network composed of artificial neurons or nodes (Hopfield, 1982).
+<center>
+
+![P9](Final%20Report%20Image/Figure%209.png "Figure 9")</center>
+
+&emsp;The difference between the neural network models and linear regression is the size of the output. Linear regression returns a 1 × o matrix, while a neutral network returns a h × o matrix. Since that, it is practicable and meaningful to compare the result of a different model. Theoretically, a proper neural network model can provide us with a better consequence since the parameters’ amount is much higher and more complex. As a result, we build a neural network model for our dataset. The training and test dataset is the same one as the linear regression model to obtain a better comparison.
+
+&emsp;In this project, the modeling part is a three-layer neural network. Although the layer amount is not that high, it works pretty well in the training dataset. Root-mean-square deviation works appropriately in neural network model training. The optimizer of this machine learning process is gradient descent to return the value that minimizes the result. The overall code is listed below.
+
+a) ```function dense(x,p)
+	w,b = p
+	w*x .+ b
+end```
+
+b) ```function nn_model(x,p)
+	w1,b1,w2,b2,w3,b3, = p
+	o1 = relu.(dense(x,[w1,b1]))
+	o2 = relu.(dense(o1,[w2,b2]))
+	dense(o2,[w3,b3])
+end```
+
+c) ```function rmse(ŷ::Vector{T}, y::Vector{T})::T where T<:AbstractFloat
+	rmse = ((ŷ .- y).^2) ./ length(y)
+	return (sum(rmse))^0.5
+end```
+
+d) ```function normalize_df(x_train::Matrix)
+	xm = mean(Matrix(x_train),dims=1)
+	xs = std(Matrix(x_train),dims=1)
+	x = (Matrix(x_train) .- xm) ./xs
+	F = svd(x')
+	x = (F.U * x')'
+	return x
+end```
+
+e) ```begin
+		x1 = normalize_df(x)
+		inputsize = size(x1,2)
+		hiddensize = 500
+		nlabels = 1
+		w1 = rand(hiddensize, inputsize) .- 0.5
+		b1 = rand(hiddensize) .- 0.5
+		w2 = rand(hiddensize, hiddensize) .- 0.5
+		b2 = rand(hiddensize) .- 0.5
+		w3 = rand(nlabels, hiddensize) .- 0.5
+		b3 = rand(nlabels) .- 0.5
+		p = [w1,b1,w2,b2,w3,b3]
+		η = 0.001
+		nsteps = 1000
+		p = train!(nn_model, rmse, 
+			p, x1', y, η, nsteps)
+	end```
+Figure 10. Origin code for the neural network model. a) shows the formula of the three-layer model. b) is the code for the model error. c) is the part of gradient descent. The learning rate of 0.001 and learning step 1000 are determined by the result of training. d) is the part for data normalization. e) is the execution step to generate and optimize initial parameters for the model. Batch size of this model is 500, which is large enough to provide favorable result.
+
+&emsp;The predicted result for the training dataset is shown in Fig 11. In comparison between the linear regression model and neural network model, root-mean-square deviation decreased by 30.96%, which is tremendous progress in consideration of the linear regression model predict accurately. In this plot, 20 points higher are than the baseline, which are the data points of Russia from 1965 to 1985, as the report mentioned before. This phenomenon strengthens the speculation that a statistical mistake happened at that time. Therefore, neither model can handle this data. In general, the neural network model performs better on the training dataset than the linear regression model.
+<center>
+
+![p11](Final%20Report%20Image/Figure%2011.jpg "Figure 11")</center>
+Figure 11. The result of applying the parameters on training data. The RMSE of this model on the training dataset is 50.6 kilotons. In the plot, the x-axis is the actual CO2 emission amount, while the y-axis represents the predicted CO2 emission amount calculated by the linear regression model. The yellow represents that the predicted amount is equal to the actual amount.
+
+### Validation the Neural Network Model
+
+&emsp;Fig 12 indicates that the linear regression model works terribly in cases other than the training dataset. The predicted results are totally different from the actual data in most cases. Compared to the linear regression model, although the neural network model performs better in the training dataset, it has no practical value since it fails in the test datasets.
+<center>
+
+![p12](Final%20Report%20Image/Figure%2012.jpg "Figure 11")</center>
+Figure 12. The results of applying the neutral network model on testing datasets. The upper plot in each section shows the data difference between the predicted and actual amounts. The bottom plot indicates CO2 emission data changing over time change. The yellow line represents the predicted amount, while the blue line represents the actual amount. a) the result of applying the model to annual CO2 emission data. The RMSE is 22240.4 kilotons. b) the result of applying the model to The United States CO2 emission data. The RMSE is 4648.1 kilotons. c) the result of applying the model to China CO2 emission data. The RMSE is 4224.8 kilotons. d) the result of applying the model to Russia CO2 emission data. The RMSE is 1451.5 kilotons.
+
+## Discussion
+&emsp;In the comparison of different models applied, the linear regression model serves better in this case. Through the β value in the trained model, the significance of different energy consumption attribute to CO2 emission can be revealed. For the three main energy consumption categories, the parameter for coal consumption amount is higher. Oil stands in second place, while gas contributes the least to CO2 emission. The phenomenon can be well explained by science. As a result, reducing the percentage of coal consumption over total energy consumption is a feasible and effective way to solve the global warming problem. 
+
+&emsp;The parameters for other sources of energy consumption have the opposite situation to the real world. In general, clean energy like hydro or wind will never have an influence on CO2 emission amount. However, the parameters of these sources are even higher than the three main categories while providing accurate prediction results. It is reasonable that clean energy only contains a tiny percentage of total energy consumption. The parameters' value will not generate a strong influence on the final result. However, this phenomenon tells us that prediction only based on statistical data might generate an unsatisfactory result. Extra analysis of the current situation is needed to produce more accurate prediction models.
+
+&emsp;In this project, the neural network model does not provide a credible result when applied to the test dataset. The future step will be trying to find a perfect model which can serve different situations.
