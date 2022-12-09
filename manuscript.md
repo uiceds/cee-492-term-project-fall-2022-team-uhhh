@@ -44,9 +44,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/2b9b0caa589883f36efca95c1cdb0959e60acc59/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/2b9b0caa589883f36efca95c1cdb0959e60acc59/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/2b9b0caa589883f36efca95c1cdb0959e60acc59/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/b6a5be05448231477149cadaeb72a265223997ba/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/b6a5be05448231477149cadaeb72a265223997ba/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/b6a5be05448231477149cadaeb72a265223997ba/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/2b9b0caa589883f36efca95c1cdb0959e60acc59/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/b6a5be05448231477149cadaeb72a265223997ba/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@2b9b0ca](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/2b9b0caa589883f36efca95c1cdb0959e60acc59)
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@b6a5be0](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/b6a5be05448231477149cadaeb72a265223997ba)
 on December 9, 2022.
 </em></small>
 
@@ -132,19 +132,19 @@ on December 9, 2022.
 
 &emsp;Thirdly, these datasets contain several data representing a massive region like South Africa or Mid East. These data caused duplication problems when we tried to get the total energy consumption per year. To get a straightforward and convenient dataset, we only collected the data from a specific country or region like the United States or China. The result of the re-organization and cleaning of the dataset is shown in Fig 1.
 
-![p1](../output/Figure%201.jpg "Figure 1")
+![p1](images/Figure%201.jpg "Figure 1")
 Figure 1. Result of re-organization and cleaning the dataset. The upper table indicates the original state of the dataset. The bottom table demonstrates the dataset after re-organization and cleaning.
 
 &emsp;Figure 2 shows different energy consumption methods' tendencies to change during the last 60 years over the world. From Fig 2, energy consumption worldwide has risen gradually over the last 50 years. Oil, Coal, and Gas are the three main categories that increased the fastest. From 2000 to 2010, it has been a tremendous improvement in the consumption of coal. Energy consumption methods other than oil, coal, and gas synchronously rise. However, the total quantity is negligible compared to the three main energy consumption categories.
 
 <center>
 
-![p2](../output/Figure%202.jpg "Figure 2")</center>
+![p2](images/Figure%202.jpg "Figure 2")</center>
 Figure 2. Different Types of Energy Consumption Per Year. The x-axis is year. The y-axis is energy consumption amount over the whole world.
 
 <center>
 
-![p3](../output/Figure%203.jpg "Figure 3") </center>
+![p3](images/Figure%203.jpg "Figure 3") </center>
 Figure 3. The relationship between CO2 emission amount worldwide and year.
 
 &emsp;Figure 3 indicates the CO2 emission amount worldwide variation trend during the last 60 years. CO2 emission amount has gradually risen to a high level. Controlling carbon emissions is more urgent as industrial and economic blooming.
@@ -153,7 +153,7 @@ Figure 3. The relationship between CO2 emission amount worldwide and year.
 
 <center>
 
-![p4](../output/Figure%204.jpg "Figure 4")</center>
+![p4](images/Figure%204.jpg "Figure 4")</center>
 Fig 4. Top 5 CO2 Emission Countries
 
 ## Predictive modeling
@@ -165,7 +165,7 @@ Fig 4. Top 5 CO2 Emission Countries
 ### Linear regression Modeling
 &emsp;Linear regression is a linear approach for modeling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables) (Freedman, 2009). In linear regression, the relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data. The most straightforward formulation of the predicted model is shown below.
 
-![Fomula](../output/Formula.png)
+![Fomula](images/Formula.png)
 
 &emsp;In this project, since the training dataset has eight independent variables (exclude year), There will have nine parameters to fit the dependent variable. In the training process, mean squared error is a simple but effective way to determine the difference between model predictions and actual observations. The optimizer of this machine learning process is gradient descent to return the value that minimizes the result. The overall code is listed below.
 
@@ -202,7 +202,7 @@ Table 1. The parameters of linear regression model
 | Value | 92.291 | 47.618 | 61.224 | 65.271 | 46.242 | 100.509 | 22.153 | 101.883 | 0.801 | 
 <center>
 
-![p6](../output/Figure%206.jpg "Figure 6")</center>
+![p6](images/Figure%206.jpg "Figure 6")</center>
 Figure 6. The result of applying the parameters on training data. The RMSE of this model on the training dataset is 73.3 kilotons. In the plot, the x-axis is the actual CO2 emission amount, while the y-axis represents the predicted CO2 emission amount calculated by the linear regression model. The yellow represents that the predicted amount is equal to the actual amount.
 
 ### Validation the linear regression Model
@@ -210,7 +210,7 @@ Figure 6. The result of applying the parameters on training data. The RMSE of th
 &emsp;Figure 7 indicates that the linear regression model works well in most cases. The predicted results are similar to actual data in most cases. However, there are still several errors that are demonstrated in the plot.
 <center>
 
-![p7](../output/Figure%207.jpg "Figure 7")</center>
+![p7](images/Figure%207.jpg "Figure 7")</center>
 Figure 7. The results of applying linear regression model on testing datasets. The upper plot in each section shows the data difference between the predicted and actual amounts. The bottom plot indicates CO2 emission data changing over time change. The yellow line represents the predicted amount, while the blue line represents the actual amount. a) the result of applying the model to annual CO2 emission data. The RMSE is 1569.8 kilotons. b) the result of applying the model to The United States CO2 emission data. The RMSE is 143.2 kilotons. c) the result of applying the model to China CO2 emission data. The RMSE is 159.0 kilotons. d) the result of applying the model to Russia CO2 emission data. The RMSE is 545.2 kilotons.
 
 &emsp;In forecasting results for total world CO2 emission amount, six points are remarkably lower than actual amounts. From the CO2 emission and year relation plot, we can find these points fasten on the first several years in the timeline. After checking the original dataset, we find that the reason behind this phenomenon is that there is no statistical data for oil consumption from 1965 to 1970. Since oil consumption plays a significant role in CO2 emission, the missing data can easily cause mistakes in data forecasting. 
@@ -218,7 +218,7 @@ Figure 7. The results of applying linear regression model on testing datasets. T
 &emsp;The other significant fault is shown in Russia’s CO2 emission dataset. From the bottom plot, we can find the imitative effect of the training model keeps a deficient level from 1965 to 1985. After that time, the prediction becomes more accurate. As I mentioned before, there are 20 points that contain incorrect data. After comparing the original dataset, we find that these data have a statistical problem. The tendency is strange, which is shown in Fig 8.
 <center>
 
-![p8](../output/Figure%208.jpg "Figure 8")</center>
+![p8](images/Figure%208.jpg "Figure 8")</center>
 Figure 8. Different kinds of energy consumption per year in Russia. In the plot, different species of energy consumption ways are separated by color.
 
 &emsp;In general, the Linear regression model serves properly to predict CO2 emission in different countries when all of the independent variables all in readiness. This model can be used to estimate CO2 emissions after acquiring energy consumption data. In the real world, the government calculates CO2 emissions with the guidance of the Intergovernmental Panel on Climate Change (IPCC). The fingerpost from IPCC only concentrates on oil, coal, and gas, which is reasonable in the real world. The achievement of this project might play a complementary role in estimating CO2 emissions in every country.
@@ -228,7 +228,7 @@ Figure 8. Different kinds of energy consumption per year in Russia. In the plot,
 &emsp;The second model for prediction is the neural network model. A neural network is a network or circuit of biological neurons or, in a modern sense, an artificial neural network composed of artificial neurons or nodes (Hopfield, 1982).
 <center>
 
-![P9](../output/Figure%209.png "Figure 9")</center>
+![P9](images/Figure%209.png "Figure 9")</center>
 
 &emsp;The difference between the neural network models and linear regression is the size of the output. Linear regression returns a 1 × o matrix, while a neutral network returns a h × o matrix. Since that, it is practicable and meaningful to compare the result of a different model. Theoretically, a proper neural network model can provide us with a better consequence since the parameters’ amount is much higher and more complex. As a result, we build a neural network model for our dataset. The training and test dataset is the same one as the linear regression model to obtain a better comparison.
 
@@ -282,7 +282,7 @@ Figure 10. Origin code for the neural network model. a) shows the formula of the
 &emsp;The predicted result for the training dataset is shown in Fig 11. In comparison between the linear regression model and neural network model, root-mean-square deviation decreased by 30.96%, which is tremendous progress in consideration of the linear regression model predict accurately. In this plot, 20 points higher are than the baseline, which are the data points of Russia from 1965 to 1985, as the report mentioned before. This phenomenon strengthens the speculation that a statistical mistake happened at that time. Therefore, neither model can handle this data. In general, the neural network model performs better on the training dataset than the linear regression model.
 <center>
 
-![p11](../output/Figure%2011.jpg "Figure 11")</center>
+![p11](images/Figure%2011.jpg "Figure 11")</center>
 Figure 11. The result of applying the parameters on training data. The RMSE of this model on the training dataset is 50.6 kilotons. In the plot, the x-axis is the actual CO2 emission amount, while the y-axis represents the predicted CO2 emission amount calculated by the linear regression model. The yellow represents that the predicted amount is equal to the actual amount.
 
 ### Validation the Neural Network Model
@@ -290,7 +290,7 @@ Figure 11. The result of applying the parameters on training data. The RMSE of t
 &emsp;Fig 12 indicates that the linear regression model works terribly in cases other than the training dataset. The predicted results are totally different from the actual data in most cases. Compared to the linear regression model, although the neural network model performs better in the training dataset, it has no practical value since it fails in the test datasets.
 <center>
 
-![p12](../output/Figure%2012.jpg "Figure 11")</center>
+![p12](images/Figure%2012.jpg "Figure 11")</center>
 Figure 12. The results of applying the neutral network model on testing datasets. The upper plot in each section shows the data difference between the predicted and actual amounts. The bottom plot indicates CO2 emission data changing over time change. The yellow line represents the predicted amount, while the blue line represents the actual amount. a) the result of applying the model to annual CO2 emission data. The RMSE is 22240.4 kilotons. b) the result of applying the model to The United States CO2 emission data. The RMSE is 4648.1 kilotons. c) the result of applying the model to China CO2 emission data. The RMSE is 4224.8 kilotons. d) the result of applying the model to Russia CO2 emission data. The RMSE is 1451.5 kilotons.
 
 ## Discussion
@@ -299,3 +299,8 @@ Figure 12. The results of applying the neutral network model on testing datasets
 &emsp;The parameters for other sources of energy consumption have the opposite situation to the real world. In general, clean energy like hydro or wind will never have an influence on CO2 emission amount. However, the parameters of these sources are even higher than the three main categories while providing accurate prediction results. It is reasonable that clean energy only contains a tiny percentage of total energy consumption. The parameters' value will not generate a strong influence on the final result. However, this phenomenon tells us that prediction only based on statistical data might generate an unsatisfactory result. Extra analysis of the current situation is needed to produce more accurate prediction models.
 
 &emsp;In this project, the neural network model does not provide a credible result when applied to the test dataset. The future step will be trying to find a perfect model which can serve different situations.
+
+## Reference
+Freedman, D. A. (2009). Statistical Models: Theory and Practice (2nd ed.). Cambridge University Press.
+Hopfield, J. J. (1982). Neural networks and physical systems with emergent collective computational abilities. Proceedings of the National Academy of Sciences, 79(8), 2554–2558. https://doi.org/10.1073/pnas.79.8.2554
+Re Cecconi, F., Moretti, N., & Tagliabue, L. (2019). Application of artificial neutral network and geographic information system to evaluate retrofit potential in public school buildings. Renewable and Sustainable Energy Reviews, 110, 266–277. https://doi.org/10.1016/j.rser.2019.04.073

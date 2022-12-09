@@ -1,6 +1,7 @@
 adaptivity
 bobbythewiggler
 BobbyWiggles
+Cecconi
 Champaign
 CSV
 dataset
@@ -12,7 +13,9 @@ Fomula
 hanzla
 Hopfield
 IPCC
+Moretti
 RMSE
+Tagliabue
 Terawatt
 TWh
 Urbana
