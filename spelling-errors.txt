@@ -9,7 +9,7 @@ datasets
 EF
 EJ
 Exajoul
-Hanzla
+hanzla
 Kaggle
 png
 Rafaqat
