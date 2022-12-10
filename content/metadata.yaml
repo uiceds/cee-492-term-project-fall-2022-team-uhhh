@@ -6,14 +6,6 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: BobbyWiggles
-    name: Robert Joseph Wiggins
-    initials: RJW
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: bobbythewiggler
-    email: rjw5@illinois.edu
-    affiliations:
-      - Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign
   - github: YongjianMa
     name: YongjianMa
     initials: MYJ
@@ -21,10 +13,4 @@ authors:
     email: yongjian@illinois.edu
     affiliations:
       - Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign
-  - github: hanzla07
-    name: Muhammad
-    initials: MHR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: rafaqat2@illinois.edu
-    affiliations:
-      - Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign
+  
