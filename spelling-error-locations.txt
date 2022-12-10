@@ -71,7 +71,6 @@ content/03. Final Report.md:195:Hopfield
 content/03. Final Report.md:196:Cecconi
 content/03. Final Report.md:196:Moretti
 content/03. Final Report.md:196:Tagliabue
-content/abstract.md:3:Hanzla
 content/abstract.md:7:dataset
 content/abstract.md:7:datasets
 content/abstract.md:7:datasets

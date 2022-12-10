@@ -1,6 +1,4 @@
 adaptivity
-bobbythewiggler
-BobbyWiggles
 Cecconi
 Champaign
 CSV
@@ -10,7 +8,6 @@ EJ
 Exajoul
 fingerpost
 Fomula
-hanzla
 Hopfield
 IPCC
 Moretti
@@ -19,5 +16,4 @@ Tagliabue
 Terawatt
 TWh
 Urbana
-XXXX
 YongjianMa

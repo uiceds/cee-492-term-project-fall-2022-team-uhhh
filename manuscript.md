@@ -5,11 +5,9 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-12-09'
+date-meta: '2022-12-10'
 author-meta:
-- Robert Joseph Wiggins
 - YongjianMa
-- Muhammad
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -20,33 +18,26 @@ header-includes: |-
   <meta name="citation_title" content="Effects of Energy Consumption Industries on Carbon Emissions by Country" />
   <meta property="og:title" content="Effects of Energy Consumption Industries on Carbon Emissions by Country" />
   <meta property="twitter:title" content="Effects of Energy Consumption Industries on Carbon Emissions by Country" />
-  <meta name="dc.date" content="2022-12-09" />
-  <meta name="citation_publication_date" content="2022-12-09" />
+  <meta name="dc.date" content="2022-12-10" />
+  <meta name="citation_publication_date" content="2022-12-10" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Robert Joseph Wiggins" />
-  <meta name="citation_author_institution" content="Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@bobbythewiggler" />
   <meta name="citation_author" content="YongjianMa" />
   <meta name="citation_author_institution" content="Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign" />
   <meta name="citation_author_orcid" content="0000-0001-8374-9401" />
-  <meta name="citation_author" content="Muhammad" />
-  <meta name="citation_author_institution" content="Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <link rel="canonical" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta property="og:url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta property="twitter:url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/b6a5be05448231477149cadaeb72a265223997ba/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/b6a5be05448231477149cadaeb72a265223997ba/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/b6a5be05448231477149cadaeb72a265223997ba/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/cbab657d433099c6a95284962c9cc79dd5095775/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/cbab657d433099c6a95284962c9cc79dd5095775/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/cbab657d433099c6a95284962c9cc79dd5095775/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,26 +58,15 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/b6a5be05448231477149cadaeb72a265223997ba/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team-uhhh/v/cbab657d433099c6a95284962c9cc79dd5095775/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team-uhhh@b6a5be0](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/b6a5be05448231477149cadaeb72a265223997ba)
-on December 9, 2022.
+from [uiceds/cee-492-term-project-fall-2022-team-uhhh@cbab657](https://github.com/uiceds/cee-492-term-project-fall-2022-team-uhhh/tree/cbab657d433099c6a95284962c9cc79dd5095775)
+on December 10, 2022.
 </em></small>
 
 ## Authors
 
 
-
-+ **Robert Joseph Wiggins**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [BobbyWiggles](https://github.com/BobbyWiggles)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [bobbythewiggler](https://twitter.com/bobbythewiggler)<br>
-  <small>
-     Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign
-  </small>
 
 + **YongjianMa**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
@@ -95,15 +75,6 @@ on December 9, 2022.
     [YongjianMa](https://github.com/YongjianMa)<br>
   <small>
      Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign
-  </small>
-
-+ **Muhammad**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [hanzla07](https://github.com/hanzla07)<br>
-  <small>
-     Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign
   </small>
 
 
